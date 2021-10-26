@@ -1,2 +1,2 @@
 # testr
-test repo
+test repofor git commonds demonstration
